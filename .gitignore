@@ -3,3 +3,5 @@ www/config.inc.php
 *.espressostorage
 tests/pear2coverage.db
 *.xdebug
+
+.DS_Store

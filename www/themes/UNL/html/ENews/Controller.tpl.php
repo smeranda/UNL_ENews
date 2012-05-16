@@ -20,6 +20,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/wdn/templates_3.0/css/all.css" />
 <link rel="stylesheet" type="text/css" media="print" href="/wdn/templates_3.0/css/print.css" />
 <link rel="stylesheet" type="text/css" media="screen" href="<?php echo UNL_ENews_Controller::getURL();?>css/all.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="<?php echo UNL_ENews_Controller::getURL();?>themes/UNL/email/ENews/css/preview.css" />
 <script type="text/javascript" src="/wdn/templates_3.0/scripts/all.js"></script>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/wdn/templates_3.0/includes/browserspecifics_html5.html'; ?>
 <!-- InstanceBeginEditable name="doctitle" -->

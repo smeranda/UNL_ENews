@@ -3,7 +3,7 @@
 	if (!empty($context->options['preview'])) : //For the preview building tool
 ?>
 <div id="previewWrapper">
-	<a href="<?php echo $context->getURL(); ?>">Problem viewing? Click here to read online.</a>
+	<a href="<?php echo $context->getURL(); ?>">Problem viewing? Click here to read.</a>
 	<div id="preview">
 		<header>
 			<hgroup>

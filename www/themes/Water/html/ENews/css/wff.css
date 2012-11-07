@@ -2,3 +2,43 @@
     background: none;
     width: auto;
 }
+
+/* Email Preview */
+
+#previewWrapper {
+    
+}
+#maincontent #onlineView {
+    color: #fff;
+    font-size: 10px;
+}
+#emailWrapper {
+    background: #C9C0A6 url('http://waterforfood.nebraska.edu/wp-content/uploads/2010/12/bck1.jpg') repeat-x left top; 
+    padding: 10px 0;
+}
+#preview #previewContent time {
+    margin: 0 0 10px 0;
+    font-size: 11px;
+}
+header {
+    text-align: left;
+    width: 576px;
+    margin: 0 auto;
+}
+header h1 {
+    display: none; 
+}
+#preview {
+    background: #E9E8DC;
+    border: 0;
+    border-radius: 0;
+    -moz-box-shadow: 0px 0px 16px #636050;
+    -webkit-box-shadow: 0px 0px 16px #636050;
+    box-shadow: 0px 0px 16px #636050;
+}
+#preview header, #preview #previewContent, #preview footer {
+    background: transparent;
+}
+#preview #previewContent {
+    padding: 10px;
+}
